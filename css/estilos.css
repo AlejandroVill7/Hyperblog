@@ -3,6 +3,10 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+#cabecera{
+    text-align: center;
+    color: red;
+}
 #container{
     width: 70%;
     padding: 40px;
