@@ -1,7 +1,12 @@
 body{
     color: green;
-    text-align: center;
+    text-align: left;
     font-family: "Arial";
+}
+#cabecera{
+    background-color: blue;
+    text-align: center;
+    color: white;
 }
 #container{
     width: 70%;
